@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="432c9fca7edcc373473402ba45df2971" size="1.000000 1.000000" />
+    <ImageTarget name="GettyImages-577158213-58a0aefe5f9b58819cf03024" size="1.000000 0.666000" />
+  </Tracking>
+</QCARConfig>
